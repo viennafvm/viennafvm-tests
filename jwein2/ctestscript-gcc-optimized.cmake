@@ -1,6 +1,6 @@
 
-set(ROOT_DIRECTORY "/home/vdev/git/ViennaMath")
-set(CTEST_SOURCE_DIRECTORY "${ROOT_DIRECTORY}/viennamath-dev")
+set(ROOT_DIRECTORY "/home/vdev/git/ViennaFVM")
+set(CTEST_SOURCE_DIRECTORY "${ROOT_DIRECTORY}/viennafvm-dev")
 set(CTEST_CMAKE_GENERATOR "Unix Makefiles")
 set(CTEST_BUILD_CONFIGURATION "Release")
 set(CTEST_BUILD_OPTIONS "")
